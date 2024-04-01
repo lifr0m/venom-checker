@@ -1,0 +1,6 @@
+loguru
+web3
+aiohttp
+ton-client-py
+mypy
+ruff
